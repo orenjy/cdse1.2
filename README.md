@@ -16,6 +16,7 @@
 - 사용 도구 - openAI sora 2
 - 입력 프롬프트(원문) + 출력 결과 요약(한 줄) - 아침에 일어나는 사람을 만들거야 아래의 조건에 따라 만들어줘
   A person stretching and waking up in bed by a sunlit window, soft morning light through curtains, cozy bedroom, warm morning sunlight, cream beige tones, cinematic, cozy minimal, high quality, 4k
+  
   결과 : 이전 결과였던 팔피면서 일어나는 자세에서 그냥 일어나며 머리 비비는 자세로 바뀜
 - 생성 결과 파일명 또는 링크 표기(파일명 규칙 자유, 단 일관성 유지) - 20260817_1
 
@@ -26,6 +27,7 @@
 - 사용 도구 - openAI sora 2
 - 입력 프롬프트(원문) + 출력 결과 요약(한 줄) - 아침에 일어나서 커피를 마시는 사람을 아래의 조건에 따라 만들어줘
   Close-up of hands holding a warm coffee mug with steam rising, sitting by a window in the morning, warm morning sunlight, cream beige tones, cinematic, cozy minimal, high quality, 4k
+  
   결과 : 손에 커피를 들고있는 화면
 - 생성 결과 파일명 또는 링크 표기(파일명 규칙 자유, 단 일관성 유지) - 20260817_2
 
@@ -34,7 +36,10 @@
 - 화면 구성 - 카누 브랜드 로고
 - 내레이션 - 카누
 - 사용 도구 - openAI sora 2
-- 입력 프롬프트(원문) + 출력 결과 요약(한 줄) - 
+- 입력 프롬프트(원문) + 출력 결과 요약(한 줄) - 카누라고 적힌 이미지를 아래의 조건에 맞게 만들어줘
+  Minimal coffee stick package on a clean table, product photography, elegant branding, empty space for logo text, cream beige tones, cinematic, high quality, 4k
+
+  결과 : 카누라고 적힌 커피 스틱
 - 생성 결과 파일명 또는 링크 표기(파일명 규칙 자유, 단 일관성 유지) - 20260817_3
 
 사용 도구 목록
