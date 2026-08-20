@@ -1,7 +1,13 @@
 스토리보드
 
-브랜드 아이덴티티
+브랜드 아이덴티티 (USP)
 - 특별한 기구없이 바로 먹을 수 있는 커피
+
+타겟 이용자
+- 직장인, 학생 등 아침에 피곤해도 일정이 있는 사람
+
+분위기
+- 밝은 느낌의 편안한 분위기
 
 캠페인 목표/핵심 메시지
 - 카누의 핵심은 바빠도 간편하게 먹을 수 있는 커피
@@ -10,7 +16,7 @@
 1번 씬 / 약 4초
 - 목표 메시지 - 피곤한 아침
 - 화면 구성 - 아침에 일어나는 조금 피곤해 보이는 사람
-- 내레이션 - 노래만
+- 내레이션 - 말 필요 없음 노래는 있으면 좋음
 - 사용 도구 - openAI sora 2
 - 입력 프롬프트(원문) + 출력 결과 요약(한 줄) - 아침에 일어나는 사람을 만들거야 아래의 조건에 따라 만들어줘
   A person stretching and waking up in bed by a sunlit window, soft morning light through curtains, cozy bedroom, warm morning sunlight, cream beige tones, cinematic, cozy minimal, high quality, 4k
